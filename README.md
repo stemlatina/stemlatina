@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m a recent graduate of the University of Michigan -- Ann Arbor, where I earned my M.S. in Information with a concentration in Data Science & Security.
-- ✨ Currently, I am looking for full time roles in the recruitment space. 
+- ✨ Currently, I am looking for roles in the recruitment space. 
 - 🌱 Learning how to make actionable contributions through machine learning and security that will help shape the next generation of researchers, technologists, and policymakers.
 - 😄 Fun fact: I like lockpicking, weightlifting, and kayaking.
 - ⚡ Check out my full portfolio here(https://mariluduque.com/) and follow me on Twitter(https://twitter.com/STEMLatina).
