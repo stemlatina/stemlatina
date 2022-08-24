@@ -8,5 +8,5 @@
 - ✨ Looking for full time roles. 
 - 🌱 Striving to make actionable solutions that will help shape the next generation of researchers, technologists, and users.
 - 😄 Fun fact: I do competitive Brazilian Jiu-Jitsu and Archery, and am a volunteer firefighter. 
-- ⚡ Check out my full portfolio here(https://mariluduque.com/).
+- ⚡ Check out my portfolio here(https://mariluduque.com/).
 
